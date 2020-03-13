@@ -1,0 +1,8 @@
+﻿  can_tp.c
+E:\ukign\VS2019\canfd_tp\can_tp.c(157,17): warning C4018: “<”: 有符号/无符号不匹配
+E:\ukign\VS2019\canfd_tp\can_tp.c(274,11): warning C4013: “memcpy”未定义；假设外部返回 int
+E:\ukign\VS2019\canfd_tp\can_tp.c(362,83): warning C4018: “>=”: 有符号/无符号不匹配
+  tp_main.c
+  正在生成代码...
+E:\ukign\VS2019\canfd_tp\can_tp.c(370,9): warning C4013: “memset”未定义；假设外部返回 int
+  can_tp_fd.vcxproj -> E:\ukign\VS2019\canfd_tp\x64\Debug\can_tp_fd.exe
